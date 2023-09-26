@@ -1,4 +1,4 @@
-This undergraduate thesis received the Outstanding Dissertation award at SUSTech in the fall of 2022.
+**This undergraduate thesis received the Outstanding Dissertation award at SUSTech in the fall of 2022.**
 
 *Analyzed the principles and concepts of the Fast Newman greedy algorithm and the Infomap algorithm, and explored their potential shortcomings and applicable networks*
 
